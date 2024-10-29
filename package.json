@@ -1,6 +1,6 @@
 {
   "name": "@saashq/datatable",
-  "version": "1.17.16",
+  "version": "1.17.17",
   "description": "A modern datatable library for the web",
   "main": "dist/saashq-datatable.cjs.js",
   "unpkg": "dist/saashq-datatable.min.js",
