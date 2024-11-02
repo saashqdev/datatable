@@ -1,6 +1,6 @@
 {
-  "name": "@saashq/datatable",
-  "version": "1.17.17",
+  "name": "saashq-datatable",
+  "version": "0.0.0-development",
   "description": "A modern datatable library for the web",
   "main": "dist/saashq-datatable.cjs.js",
   "unpkg": "dist/saashq-datatable.min.js",
@@ -19,9 +19,6 @@
     "lint": "eslint src",
     "lint-and-build": "yarn lint && yarn build",
     "commit": "npx git-cz"
-  },
-  "publishConfig": {
-    "access": "public"
   },
   "files": [
     "dist",
@@ -62,7 +59,7 @@
     "grid",
     "table"
   ],
-  "author": "Saashq",
+  "author": "Faris Ansari",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/saashqdev/datatable/issues"
